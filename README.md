@@ -1,5 +1,9 @@
 # work-day-scheduler
-A simple calendar for scheduling your work day.
+A simple calendar for scheduling your work day. This project uses real time through dayjs() and dynamically updates the page through time, or in this case, hours of the work day. It features save buttons that save user input to localstorsge which gives the user the ability to not lose their schedule. (Persistent data is stored and loaded)
+
+Gray timeblocks indicate the past.
+Red timeblocks indicate the present.
+Green timeblocks indicate the future.
 
 ## Your Task
 
