@@ -37,5 +37,5 @@ THEN the saved events persist
 
 [Screenshot of final product workday scheduler.](./assets/images/work-day-scheduler-Complete.jpg)
 
-##Link
+## Link
 A link to the deployed application: https://jmpre28.github.io/work-day-scheduler/
