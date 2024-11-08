@@ -42,4 +42,4 @@ THEN the saved events persist
 <img src="./assets/images/work-day-scheduler-Complete.jpg" alt="Screenshot of final product workday scheduler.">
 
 ## Link
-A link to the deployed application: https://jmpre28.github.io/work-day-scheduler/
+A link to the deployed application: https://jakepreciado.github.io/work-day-scheduler/
